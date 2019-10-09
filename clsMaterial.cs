@@ -8,7 +8,7 @@ namespace DemoBiblioteca
 {
     class clsMaterial
     {
-        
+        LOBA
         List<clsMaterial> listMaterial = new List<clsMaterial>();
 
         #region Propiedades
